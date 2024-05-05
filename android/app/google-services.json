@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721489355655",
+    "project_id": "bikergo",
+    "storage_bucket": "bikergo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721489355655:android:803deb5f3b940b3dbb6922",
+        "android_client_info": {
+          "package_name": "com.ayoub.bikergo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOp5gt9QeTvfCp8nfu7hmzqfsnq0LGog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
